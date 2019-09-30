@@ -1,0 +1,296 @@
+/* xs */
+@media (max-width:575px) {
+    .where h2{
+        font-size: 30px;
+    }
+    .where p{
+        font-size: 25px;
+    }
+    .egypt-info h2 {
+        font-size: 30px;
+    }
+    .egypt-info p {
+        font-size: 10px;
+        padding: 0;
+    }
+    .all-places .heading .head {
+        font-size: 20px;
+    }
+    .all-places .heading .heading-text{
+        font-size: 15px;
+    }
+    .details-cairo {
+        height: 1175px;
+    }
+    .details-cairo .shadow .left{
+        width: 100%;
+        margin: auto;
+        height: 50%;
+        box-sizing: border-box;
+    }
+    .details-cairo .shadow .left .slider{
+        width: 90%;
+        
+    }
+    .details-cairo .shadow .left .cairo-paragraph h2{
+        font-size: 20px;
+    }
+    .details-cairo .shadow .left .cairo-paragraph p{
+        font-size: 10px;
+        text-align: center;
+        box-sizing: border-box;
+
+        
+    }
+    .details-cairo .shadow .right{
+        width: 100%;
+        margin: auto;
+        height: 50%;
+        box-sizing: border-box;
+    }
+    .details-cairo .shadow .right .slider{
+        width: 90%; 
+    }
+    .details-cairo .shadow .right .cairo-paragraph h2{
+        font-size: 20px;
+    }
+    .details-cairo .shadow .right .cairo-paragraph p{
+        font-size: 12px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+    .details-giza{
+        height: 400px;;
+    }
+    .details-giza .left{
+        background-color: rgb(0, 100, 100);
+    }
+    .details-giza .left .slider2{
+        height: 80%
+    }
+    .details-giza .right{
+        padding:5px;
+    }
+    .details-giza .right h2{
+        font-size: 20px;
+    }
+    .details-giza .right .giza-paragraph{
+        font-size: 10px;
+    }
+
+
+}
+
+/* Sm */
+@media (min-width:576px) and (max-width:768px) {
+    .where h2{
+        font-size: 30px;
+    }
+    .where p{
+        font-size: 25px;
+    }
+    .egypt-info h2 {
+        font-size: 30px;
+    }
+    .egypt-info p {
+        font-size: 10px;
+        padding: 0;
+    }
+    .all-places .heading .head {
+        font-size: 22px;
+    }
+    .all-places .heading .heading-text{
+        font-size: 17px;
+    }
+    .details-cairo {
+        height: 1100px;
+    }
+    .details-cairo .shadow .left{
+        width: 100%;
+        margin: auto;
+        height: 50%;
+        box-sizing: border-box;
+    }
+    .details-cairo .shadow .left .slider{
+        width: 90%;
+        
+    }
+    .details-cairo .shadow .left .cairo-paragraph h2{
+        font-size: 22px;
+    }
+    .details-cairo .shadow .left .cairo-paragraph p{
+        font-size: 11px;
+        text-align: center;
+        box-sizing: border-box;
+
+        
+    }
+    .details-cairo .shadow .right{
+        width: 100%;
+        margin: auto;
+        height: 50%;
+        box-sizing: border-box;
+    }
+    .details-cairo .shadow .right .slider{
+        width: 90%; 
+    }
+    .details-cairo .shadow .right .cairo-paragraph h2{
+        font-size: 22px;
+    }
+    .details-cairo .shadow .right .cairo-paragraph p{
+        font-size: 12px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+    .details-giza{
+        height: 400px;;
+    }
+    .details-giza .left{
+        background-color: rgb(0, 100, 100);
+    }
+    .details-giza .left .slider2{
+        height: 80%
+    }
+    .details-giza .right{
+        padding:8px;
+    }
+    .details-giza .right h2{
+        font-size: 22px;
+    }
+    .details-giza .right .giza-paragraph{
+        font-size: 10px;
+    }
+}
+
+/* md */
+@media (min-width:769px) and (max-width:1050px) {
+    .where h2{
+        font-size: 33px;
+    }
+    .where p{
+        font-size: 26px;
+    }
+    .egypt-info h2 {
+        font-size: 33px;
+    }
+    .egypt-info p {
+        font-size: 13px;
+        padding: 0;
+    }
+    .all-places .heading .head {
+        font-size: 23px;
+    }
+    .all-places .heading .heading-text{
+        font-size: 18px;
+    }
+    .details-cairo {
+        height: 1100px;
+    }
+    .details-cairo .shadow .left{
+        width: 100%;
+        margin: auto;
+        height: 50%;
+        box-sizing: border-box;
+    }
+    .details-cairo .shadow .left .slider{
+        width: 70%;
+        
+    }
+    .details-cairo .shadow .left .cairo-paragraph h2{
+        font-size: 24px;
+    }
+    .details-cairo .shadow .left .cairo-paragraph p{
+        font-size: 14px;
+        text-align: center;
+        box-sizing: border-box;
+
+        
+    }
+    .details-cairo .shadow .right{
+        width: 100%;
+        margin: auto;
+        height: 50%;
+        box-sizing: border-box;
+    }
+    .details-cairo .shadow .right .slider{
+        width: 90%; 
+    }
+    .details-cairo .shadow .right .cairo-paragraph h2{
+        font-size: 24px;
+    }
+    .details-cairo .shadow .right .cairo-paragraph p{
+        font-size: 14px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+    .details-giza{
+        height: 400px;;
+    }
+    .details-giza .left{
+        background-color: rgb(0, 100, 100);
+    }
+    .details-giza .left .slider2{
+        height: 80%
+    }
+    .details-giza .right{
+        padding:10px;
+    }
+    .details-giza .right h2{
+        font-size: 22px;
+    }
+    .details-giza .right .giza-paragraph{
+        font-size: 12px;
+    }
+}
+
+/* lg */
+@media (min-width:1051px) and (max-width:1390px) {
+   
+    .where p{
+        font-size: 28px;
+    }
+    .egypt-info h2 {
+        font-size: 40px;
+    }
+    .egypt-info p {
+        font-size: 20px;
+        padding: 0;
+    }
+    .all-places .heading .head {
+        font-size: 25px;
+    }
+    .all-places .heading .heading-text{
+        font-size: 20px;
+    }
+  
+   
+   
+    .details-cairo .shadow .left .cairo-paragraph h2{
+        font-size: 30px;
+    }
+    .details-cairo .shadow .left .cairo-paragraph p{
+        font-size: 17px;
+        text-align: center;
+        box-sizing: border-box;
+
+        
+    }
+   
+    .details-cairo .shadow .right .cairo-paragraph h2{
+        font-size: 28px;
+    }
+    .details-cairo .shadow .right .cairo-paragraph p{
+        font-size: 18px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+    .details-giza .right{
+        padding:10px;
+    }
+    .details-giza .right h2{
+        font-size: 25px;
+    }
+    .details-giza .right .giza-paragraph{
+        font-size: 16px;
+    }
+}
